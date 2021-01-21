@@ -1,0 +1,20 @@
+/*
+StreamPi Default Light mode
+Fully supports JavaFX CSS
+*/
+
+.root {
+    -fx-background-color : #222;
+    -fx-text-fill : #222;
+}
+
+.label {
+    -fx-text-fill:#cccccc;
+}
+
+.scroll-pane {
+   -fx-background: #222;
+   -fx-border-color:#000000;
+   -fx-focus-color: #FFFFFF;
+   -fx-faint-focus-color:#FFFFFF;
+}

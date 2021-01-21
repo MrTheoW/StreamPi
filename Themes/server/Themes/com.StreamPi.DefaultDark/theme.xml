@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+    <theme-platform-version>1.0.0</theme-platform-version>
+    
+    <info>
+        <short-name>Dark Theme</short-name>
+        <author>Mr. TheoW</author>
+        <version>1.0.0</version>
+    </info>
+    
+    <theme>
+        <icon>
+            <size>10</size>
+            <color>#000000</color>
+        </icon>
+
+        <stylesheets>
+            <stylesheet>res/common/style.css</stylesheet>
+            <stylesheet>res/server/style.css</stylesheet>
+        </stylesheets>
+    </theme>
+</configuration>
