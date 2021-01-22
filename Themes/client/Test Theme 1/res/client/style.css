@@ -1,16 +1,23 @@
+/*
+Theme:      All Peachy
+Author:     Mr TheoW
+Version:    0.0.1
+*/
+
 .dashboard{
     -fx-background-image: url("bg.png");
     -fx-background-repeat:stretch;
-    -fx-background-size:  110%  100%;
+    -fx-background-size:  100%  100%;
     -fx-background-position: bottom ;
 }
 
 .action_box{
-    -fx-effect: dropshadow( three-pass-box , rgba(240,0,255,0.5) , 20,0.8,3,0 );
+    -fx-effect: dropshadow( three-pass-box , #0a053f, 20,0.8,3,0 );
     -fx-border-width: 3px;
-    -fx-border-color: linear-gradient(#009ecc,#c000cc);
-    -fx-background-color: rgba(255,255,255,0.1 );
+    -fx-border-color: linear-gradient(#222222,#0a053f);
+    -fx-background-color: #000000;
 }
 
 .root{
+    -fx-text-fill: #cccccc;
 }

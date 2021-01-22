@@ -3,20 +3,19 @@
     <theme-platform-version>1.0.0</theme-platform-version>
     
     <info>
-        <short-name>True Darkness Server</short-name>
+        <short-name>All Peachy</short-name>
         <author>Mr TheoW</author>
-        <version>1.0.0</version>
+        <version>0.0.1</version>
     </info>
     
     <theme>
         <icon>
-            <size>10</size>
-            <color>#000000</color>
+            <size>14</size>
+            <color>#FFFFFF</color>
         </icon>
 
         <stylesheets>
-            <stylesheet>res/common/style.css</stylesheet>
-            <stylesheet>res/server/style.css</stylesheet>
+            <stylesheet>res/client/style.css</stylesheet>
         </stylesheets>
     </theme>
 </configuration>
