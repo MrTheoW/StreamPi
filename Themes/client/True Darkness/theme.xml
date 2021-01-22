@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+    <theme-platform-version>1.0.0</theme-platform-version>
+    
+    <info>
+        <short-name>True Darkness</short-name>
+        <author>Mr. TheoW</author>
+        <version>1.0.0</version>
+    </info>
+    
+    <theme>
+        <icon>
+            <size>14</size>
+            <color>#FFFFFF</color>
+        </icon>
+
+        <stylesheets>
+            <stylesheet>res/client/style.css</stylesheet>
+        </stylesheets>
+    </theme>
+</configuration>

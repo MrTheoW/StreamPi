@@ -1,0 +1,8 @@
+.dashboard{
+    -fx-background-color: black;
+}
+
+.root {
+    -fx-background-color: black;
+    -fx-text-fill: #FFFFFF;
+}

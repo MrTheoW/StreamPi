@@ -1,0 +1,16 @@
+.dashboard{
+    -fx-background-color: black;
+}
+
+.root {
+    -fx-background-color: black;
+    -fx-text-fill: #cccccc;
+
+}
+
+.scroll-pane {
+    -fx-background: #222;
+    -fx-border-color:#000000;
+    -fx-focus-color: #FFFFFF;
+    -fx-faint-focus-color:#FFFFFF;
+ }

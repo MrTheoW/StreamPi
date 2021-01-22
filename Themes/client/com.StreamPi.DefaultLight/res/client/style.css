@@ -1,0 +1,8 @@
+/*
+StreamPi Default Light mode
+Fully supports JavaFX CSS
+*/
+
+.dashboard{
+    -fx-background-color: white;
+}
