@@ -1,0 +1,32 @@
+/*
+Theme:      True Darkness - Server
+Author:     Mr. TheoW
+Version:    1.0.0
+*/
+
+.plugins_pane{
+    -fx-background-color : #222222;             /* Plugin Pane */
+}
+
+.client_details_pane  {
+    -fx-background-color : #222222;             /* Header */
+}
+
+.action_grid_pane {
+    -fx-background-color: #cccccc;              /* Main View Border */
+}
+
+.action_details_pane {
+    -fx-background-color : #222222;             /* Lower Section */
+}
+
+.action_details_pane_vbox {
+    -fx-background-color : #222222;             /* Active Configuration Pane */
+}
+
+.action_details_pane_scroll_pane {
+   -fx-background: #222222;                     /* Inactive Configuration Pane */
+   -fx-border-color:#cccccc;                    /* Configuration Pane Border */
+   -fx-focus-color: #0055ff;                    /* Unknown for now */
+   -fx-faint-focus-color:#ffcaca;               /* Focused Item */
+}
